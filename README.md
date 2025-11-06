@@ -34,7 +34,7 @@ Make sure your environment includes:
 - **npm / yarn**
 - Access to a supported blockchain RPC (for onchain verification)
 
-  ## Quick Start
+## Quick Start
 
 ### **Step 1 — Choose your environment**
 
@@ -51,3 +51,16 @@ Depending on your setup, use one of the following SDKs:
 - [Overview](https://docs.primuslabs.xyz/data-verification/core-sdk/overview)
 - [Installation](https://docs.primuslabs.xyz/data-verification/core-sdk/install/#installation-steps)
 - [Simple Example](https://docs.primuslabs.xyz/data-verification/core-sdk/simpleexample/#zktls-modes)
+
+### **Step 2 — Set up Onchain Interactions (Optional)**
+If you need to verify zkTLS proofs onchain, use the Solidity SDK.
+- [Overview](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/solidity/overview)
+- [Quick Start](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/solidity/quickstart)
+
+### **Step 3 — Verify your first proof**
+Example for demonstration — actual SDK API names may vary slightly.
+
+### **Next Steps**
+- Explore advanced usage examples in the [Primus zkTLS documentation](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/overview?utm_source=chatgpt.com).
+- Experiment with different attestation modes (MPC vs Proxy).
+- Integrate onchain verification for your application’s data provenance layer.
