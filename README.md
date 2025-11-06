@@ -37,10 +37,8 @@ Make sure your environment includes:
 ## Quick Start
 
 ### **Step 1 — Choose your environment**
-
-Depending on your setup, use one of the following SDKs:
+> Depending on your setup, use one of the following SDKs:
 ### 🧩 **For Dapp Integration (Frontend)**
-
 - [Overview](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/overview/)
 - [Install Guide](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/install/#installation-steps)
 - [Test Example](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/test/#implementation)
@@ -53,12 +51,12 @@ Depending on your setup, use one of the following SDKs:
 - [Simple Example](https://docs.primuslabs.xyz/data-verification/core-sdk/simpleexample/#zktls-modes)
 
 ### **Step 2 — Set up Onchain Interactions (Optional)**
-If you need to verify zkTLS proofs onchain, use the Solidity SDK.
+> If you need to verify zkTLS proofs onchain, use the Solidity SDK.
 - [Overview](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/solidity/overview)
 - [Quick Start](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/solidity/quickstart)
 
 ### **Step 3 — Verify your first proof**
-Example for demonstration — actual SDK API names may vary slightly.
+> Example for demonstration — actual SDK API names may vary slightly.
 
 ### **Next Steps**
 - Explore advanced usage examples in the [Primus zkTLS documentation](https://docs.primuslabs.xyz/data-verification/zk-tls-sdk/overview?utm_source=chatgpt.com).
