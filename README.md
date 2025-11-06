@@ -6,7 +6,7 @@ Primus provides unified SDKs for both **Dapp** and **Backend** integrations, all
 
 ## zkTLS Mode
 
-zkTLS supports two algorithm modes, each with different trade-offs between security and performance.
+> zkTLS supports two algorithm modes, each with different trade-offs between security and performance.
 
 ### **MPC Mode**
 
