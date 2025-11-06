@@ -1,5 +1,3 @@
-[TOC]
-
 ## **Overview**
 
 zkTLS verifies TLS data authenticity while preserving privacy, without modifying servers. It enables secure use of Web2 personal data for efficient cross-platform flow.
